@@ -1,3 +1,4 @@
+ // my version 
 let age;
  
 document.getElementById('submit').onclick = function(){
@@ -13,4 +14,5 @@ document.getElementById('submit').onclick = function(){
 
 // else{document.getElementById('results').textContent=`Welcome to the site`;}
    
+ 
 }

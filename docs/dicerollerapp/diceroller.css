@@ -1,0 +1,39 @@
+#container{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    font-size: 7rem;
+    font-weight: bold;
+}
+button{
+    font-size: 5rem;
+    padding: 10px 15px;
+    border-radius: 10px;
+    border: none;
+    background-color: green;
+    color: white;
+    font-weight: bold;
+    cursor: grabbing;
+}
+button:hover{
+    background-color: lightgreen;
+}
+button:active{
+    background-color: darkgreen;
+  
+}
+label{
+    width: 50px;
+}
+input{
+    font-size: 5rem;
+    width: 250px;
+    text-align: center;
+    font-weight: bold;
+}
+#dice-result{
+   margin: 25px;
+}
+#dice-images img{
+    width: 250px;
+    
+}

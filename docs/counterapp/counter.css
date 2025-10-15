@@ -1,0 +1,42 @@
+#counter-name{
+    display: block;
+    text-align: center;
+    padding: 10em;
+    color: blue;
+}
+
+#countLabel{
+display: block;
+text-align:  center;
+font-size: 10em;
+font-family : Helvetical;
+}
+
+#button-container{
+   display: block;
+   text-align:  center;
+
+}
+.buttons1, .buttons2 , .buttons3{
+    padding: 10px 20px;
+    font-size: 1.5em;
+    color: black;
+    background-color: grey;
+    border-radius: 1.2em;
+    margin: 1em;
+    transition: background-color(10s);
+
+}
+
+
+.buttons1:hover{
+    background-color: red;
+}
+.buttons2:hover{
+    background-color: white;
+}
+.buttons3:hover{
+    background-color: darkgreen;
+}
+
+
